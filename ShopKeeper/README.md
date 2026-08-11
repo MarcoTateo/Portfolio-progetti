@@ -5,5 +5,5 @@ Questo progetto è un serious game in realtà virtuale per l'allenamento della m
 ## Immagini
 
 <p align="center">
-  <img src="Foto-Video/Example.png" width="600">
+  <img src="Foto-Video/Ex1.png" width="600">
 </p>
