@@ -1,12 +1,14 @@
 # ShopKeeper VR
 
-**Serious game immersivo in realtà virtuale per l'allenamento della memoria spaziale.**
+### **Serious game immersivo in realtà virtuale per l'allenamento della memoria spaziale.**
 
-## Overviewkp
+## Overview
+
+
 
 ## Gameplay
 
-##Tecnologie utilizzate
+## Tecnologie utilizzate
 
 ## Media
 
