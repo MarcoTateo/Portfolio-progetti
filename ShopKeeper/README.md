@@ -4,7 +4,7 @@
 
 ## Overview
 
-
+Questo progetto nasce con l'obbiettivo di creare un modo più motivante e coinvolgente di allenare la memoria spaziale, ovvero quella che permette di memorizzare la posizione e diposizione degli oggetti in un ambiente.
 
 ## Gameplay
 
