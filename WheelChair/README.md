@@ -17,7 +17,7 @@ Durante l'esperienza l'utente può incontrare, ad esempio, vetri rotti sul pavim
 Le frecce presenti sul pavimento guidano inizialmente l'utente verso gli ostacoli, evidenziando le difficoltà di accessibilità, e successivamente indicano i possibili percorsi alternativi per raggiungere l'uscita.
 
 <p align="center">
-  <img src="Foto-Video/Mem_GIF.gif" width="700">
+  <img src="Foto-Video/Door_GIF.gif" width="700">
 </p>
 
 
