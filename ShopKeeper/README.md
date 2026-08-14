@@ -41,6 +41,11 @@ Inizialmente, per fornire all'utente alcuni riferimenti visivi, sugli scaffali r
 
 Nella fase finale, l'utente non dispone più di alcun riferimento visivo e deve quindi affidarsi esclusivamente alla propria memoria per individuare la posizione corretta delle scarpe.
 
+<p align="center">
+  <img src="Foto-Video/Posizionamento_GIF.gif" width="700">
+</p>
+
+
 ## Tecnologie utilizzate
 
 Il progetto è stato sviluppato utilizzando il game engine ***Unity*** e il linguaggio ***C#***.
