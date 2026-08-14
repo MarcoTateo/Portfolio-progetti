@@ -1,29 +1,27 @@
+# WheelChair VR
 
-### WheelChair VR
-
-Serious game immersivo in realtà virtuale per simulare le difficoltà delle persone in sedia a rotelle in casi di emergenza.
+### Serious game immersivo in realtà virtuale per simulare le difficoltà affrontate dalle persone in carrozzina durante situazioni di emergenza
 
 ## Overview
 
-Il progetto, realizzato presso l'Università degli Studi di Udine, ha l'obbiettivo di utilizzare la tecnica del Perspective taking per simulare le difficoltà che possono affrontare le persone su sedia a rotelle per scappare da situazioni di emergenza come terremoti.
+Il progetto, realizzato presso l'Università degli Studi di Udine, ha l'obiettivo di utilizzare la tecnica del **Perspective Taking** per far sperimentare all'utente alcune delle difficoltà che una persona in carrozzina può incontrare durante l'evacuazione da un edificio in una situazione di emergenza, come un terremoto.
 
-L'ambientazione è un'ufficio che è stato colpito da un terremoto e l'utente si deve muovere all'interno di esso usando una una carrozzina.
+L'esperienza è ambientata all'interno di un ufficio colpito da un terremoto. L'utente deve muoversi nell'ambiente utilizzando una carrozzina e cercare di raggiungere l'uscita.
 
-## Gameplay 
+## Gameplay
 
-L'obbiettivo dell'utente è riuscire ad uscire dall'ufficio. Spostandosi l'utente si troverà davanti a diversi ostacoli, ad esempio vetri rotti per terra, armadi caduti che bloccano il passaggio e porte da aprire. 
- 
-Per terra sono presenti delle freccie che portano agli ostacoli e indicano i percorsi alternativi.
+L'obiettivo dell'utente è riuscire a uscire dall'ufficio superando diversi ostacoli presenti lungo il percorso.
+
+Durante l'esperienza l'utente può incontrare, ad esempio, vetri rotti sul pavimento, armadi caduti che bloccano il passaggio e porte da aprire.
+
+Le frecce presenti sul pavimento guidano inizialmente l'utente verso gli ostacoli, evidenziando le difficoltà di accessibilità, e successivamente indicano i possibili percorsi alternativi per raggiungere l'uscita.
 
 ## Tecnologie utilizzate
 
 Il progetto è stato sviluppato utilizzando il game engine ***Unity*** e il linguaggio ***C#***.
 
-Per l'esperienza immersiva è stato utilizzato il visore ***Meta Quest 2***, mentre le interazioni sono stati implementati tramite ***XR Interaction Toolkit***.
+Per l'esperienza immersiva è stato utilizzato il visore ***Meta Quest 2***, mentre le interazioni sono state implementate tramite ***XR Interaction Toolkit***.
 
 ## Il mio ruolo
 
-Mi sono occupato della progettazione e dello sviluppo dell'esperienza, implementando il tutorial, le dinamiche di gioco, l'interazione con la carrozzina e gli ostacoli con i relativi percorsi alternativi.
-
-
-
+Mi sono occupato della progettazione e dello sviluppo dell'esperienza, implementando il tutorial, le principali meccaniche di interazione, il sistema di utilizzo della carrozzina, gli ostacoli ambientali e i relativi percorsi alternativi.
