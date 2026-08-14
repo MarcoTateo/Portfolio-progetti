@@ -14,7 +14,7 @@ Il sistema di locomozione implementato è il teletrasporto. QUesta scelta è sta
 
 ## Gameplay
 
-L'utente interagirisc econ il mondo virtuale tramite visore per cambiare visuale e tramite controller per afferrare e rilasciare le scarpe e teletrasportarsi per il negozio virtuale.
+L'utente interagisce con il mondo virtuale tramite visore per cambiare visuale e tramite controller per afferrare e rilasciare le scarpe e teletrasportarsi per il negozio virtuale.
 
 L'esperienza si compone di 3 livelli. Al crescere del livello cresce il numero di scarpe da memorizzare e quindi sistemare. Ogni livello comprende 2 fasi:
 
