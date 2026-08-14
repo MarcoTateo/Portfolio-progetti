@@ -12,7 +12,7 @@ L'esperienza è ambientata all'interno di un ufficio colpito da un terremoto. L'
 
 L'obiettivo dell'utente è riuscire a uscire dall'ufficio superando diversi ostacoli presenti lungo il percorso.
 
-Durante l'esperienza l'utente può incontrare, ad esempio, vetri rotti sul pavimento, armadi caduti che bloccano il passaggio e porte da aprire.
+Durante l'esperienza l'utente può incontrare, ad esempio, vetri rotti sul pavimento, armadi caduti che bloccano il passaggio, porte da aprire e scale.
 
 Le frecce presenti sul pavimento guidano inizialmente l'utente verso gli ostacoli, evidenziando le difficoltà di accessibilità, e successivamente indicano i possibili percorsi alternativi per raggiungere l'uscita.
 
