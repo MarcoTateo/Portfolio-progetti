@@ -16,7 +16,7 @@ Come sistema di locomozione è stato implementato il teletrasporto. Questa scelt
 
 L'utente esplora l'ambiente attraverso il visore VR e utilizza i controller per interagire con gli oggetti, afferrare e rilasciare le scarpe e teletrasportarsi all'interno del negozio virtuale.
 
-L'esperienza è composta da **3 livelli a difficoltà crescente**. Con l'aumentare del livello cresce il numero di scarpe che l'utente deve memorizzare e successivamente riposizionare.
+L'esperienza è composta da **5 livelli a difficoltà crescente**. Con l'aumentare del livello cresce la dimesnione del negozio e il numero di scarpe che l'utente deve memorizzare e successivamente riposizionare.
 
 Ogni livello è suddiviso in due fasi:
 
@@ -26,7 +26,11 @@ L'utente dispone di un tempo limitato per esplorare l'ambiente e memorizzare la 
 
 ### Fase 2: **Riposizionamento**
 
-Al centro della stanza compaiono le scarpe che l'utente deve riposizionare sugli scaffali. Il corretto o errato posizionamento viene segnalato attraverso la colorazione dello slot corrispondente: **verde** in caso di posizione corretta e **rosso** in caso di errore.
+In questa fase l'utente dispone di un tempo limitato per riposizionare sugli scaffali le scarpe che compaiono al centro della stanza. Dopo ogni posizionamento corretto, viene mostrata una nuova scarpa da collocare.
+
+Inizialmente, per fornire all'utente alcuni riferimenti visivi, sugli scaffali rimangono tutte le scarpe ad eccezione di quelle da riposizionare. Successivamente, a intervalli regolari, alcune delle scarpe presenti sugli scaffali scompaiono in modo casuale, riducendo progressivamente gli indizi disponibili.
+
+Nella fase finale, l'utente non dispone più di alcun riferimento visivo e deve quindi affidarsi esclusivamente alla propria memoria per individuare la posizione corretta delle scarpe.
 
 ## Tecnologie utilizzate
 
