@@ -52,14 +52,12 @@ Il progetto è stato sviluppato utilizzando il game engine ***Unity*** e il ling
 
 Per l'esperienza immersiva è stato utilizzato il visore ***Meta Quest 2***, mentre le interazioni e il sistema di locomozione sono stati implementati tramite ***XR Interaction Toolkit***.
 
+## Test
+
+Il sistema è stato testato con diversi utenti per valutarne l'usabilità e analizzare l'eventuale presenza di correlazioni tra le caratteristiche delle scarpe, come tipologia e colore, e la facilità di memorizzazione.
+
 ## Il mio ruolo
 
 Mi sono occupato della progettazione e dello sviluppo dell'esperienza, implementando le principali meccaniche di gioco, le interazioni con gli oggetti, il sistema di locomozione tramite teletrasporto, la gestione dei livelli e il sistema di punteggio.
 
 Mi sono inoltre occupato della raccolta dei dati ottenuti durante i test e della successiva analisi delle possibili correlazioni.
-
-## Test
-
-Il sistema è stato testato con diversi utenti per valutarne l'usabilità e analizzare l'eventuale presenza di correlazioni tra le caratteristiche delle scarpe, come tipologia e colore, e la facilità di memorizzazione.
-
-## Media
