@@ -22,7 +22,6 @@ Le frecce presenti sul pavimento guidano inizialmente l'utente verso gli ostacol
 <img src="Foto-Video/Hallway_GIF.gif" width="600">
 </p>
 
-<br>
 
 #
 
