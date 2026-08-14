@@ -19,11 +19,14 @@ Le frecce presenti sul pavimento guidano inizialmente l'utente verso gli ostacol
 <br>
 
 <p align="center">
-  <img src="Foto-Video/Door_GIF.gif" width="700">
-  <img src="Foto-Video/Hallway_GIF.gif" width="700">
+  <img src="Foto-Video/Door_GIF.gif" width="600">
 </p>
 
+<br>
 
+<p align="center">
+<img src="Foto-Video/Hallway_GIF.gif" width="600">
+</p>
 
 <br>
 
