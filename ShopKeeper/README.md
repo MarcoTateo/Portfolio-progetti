@@ -2,6 +2,10 @@
 
 ### Serious game immersivo in realtà virtuale per l'allenamento della memoria spaziale
 
+<p align="center">
+  <img src="Foto-Video/Ex1.png" width="600">
+</p>
+
 ## Overview
 
 Il progetto, realizzato presso l'Università degli Studi di Udine, nasce con l'obiettivo di sviluppare un'esperienza coinvolgente per l'allenamento della memoria spaziale, ovvero la capacità di ricordare la posizione e la disposizione degli oggetti all'interno di un ambiente.
@@ -47,6 +51,4 @@ Il sistema è stato testato con diversi utenti con l'obiettivo di valutarne l'us
 
 Mi sono occupato della progettazione e dello sviluppo dell'esperienza, implementando le principali meccaniche di gioco, le interazioni con gli oggetti, il sistema di locomozione tramite teletrasporto, la gestione dei diversi livelli e la racccolta dati per l'analisi delle correlazioni.
 
-<p align="center">
-  <img src="Foto-Video/Ex1.png" width="600">
-</p>
+
