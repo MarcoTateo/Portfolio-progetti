@@ -22,7 +22,7 @@ Ogni livello è suddiviso in due fasi:
 
 ### Fase 1: **Memorizzazione**
 
-L'utente dispone di un tempo limitato per esplorare l'ambiente e memorizzare la posizione delle scarpe presenti sugli scaffali. Allo scadere del tempo, le scarpe scompaiono.
+L'utente dispone di un tempo limitato per esplorare l'ambiente e memorizzare la posizione delle scarpe presenti sugli scaffali.
 
 ### Fase 2: **Riposizionamento**
 
