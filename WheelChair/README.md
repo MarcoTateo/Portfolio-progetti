@@ -26,6 +26,8 @@ Le frecce presenti sul pavimento guidano inizialmente l'utente verso gli ostacol
 
 #
 
+<br>
+
 <p align="center">
   <img src="Foto-Video/Door_GIF.gif" width="600">
 </p>
