@@ -1,37 +1,42 @@
 # ShopKeeper VR
 
-### Serious game immersivo in realtà virtuale per l'allenamento della memoria spaziale.
+### Serious game immersivo in realtà virtuale per l'allenamento della memoria spaziale
 
 ## Overview
 
-Questo progetto realizzato presso l'Università degli Studi di Udine, nasce con l'obbiettivo di creare un modo più coinvolgente di allenare la memoria spaziale, ovvero quella memoria che permette di memorizzare la posizione e diposizione degli oggetti in un ambiente.
+Il progetto, realizzato presso l'Università degli Studi di Udine, nasce con l'obiettivo di sviluppare un'esperienza coinvolgente per l'allenamento della memoria spaziale, ovvero la capacità di ricordare la posizione e la disposizione degli oggetti all'interno di un ambiente.
 
-Questo serious game multilivello a difficoltà crescente è stato sviluppato in modo tale da essere giocato tramite un visore per la realtà virtuale per rendere l'esperienza più realistica e immersiva.
+Il serious game è strutturato su più livelli a difficoltà crescente ed è stato sviluppato per essere utilizzato tramite un visore di realtà virtuale, rendendo l'esperienza più realistica e immersiva.
 
-L'utente viene portato in un negozio di calzature virtuale dove dovrà inizialmente memorizzare la posizione delle scarpe poste sugli scaffali e infine riposizionarle nelle corrette posizioni.
+L'utente viene trasportato all'interno di un negozio di calzature virtuale, dove deve inizialmente memorizzare la posizione delle scarpe presenti sugli scaffali e, successivamente, riposizionarle nelle corrette posizioni.
 
-Il sistema di locomozione implementato è il teletrasporto. QUesta scelta è stata presa per ridurre l'effetto della motion sickness dato l'elevato movimento dell'utente all'interno dell'ambiente.
+Come sistema di locomozione è stato implementato il teletrasporto. Questa scelta è stata adottata per ridurre il rischio di motion sickness, considerando la necessità dell'utente di spostarsi frequentemente all'interno dell'ambiente virtuale.
 
 ## Gameplay
 
-L'utente interagisce con il mondo virtuale tramite visore per cambiare visuale e tramite controller per afferrare e rilasciare le scarpe e teletrasportarsi per il negozio virtuale.
+L'utente esplora l'ambiente attraverso il visore VR e utilizza i controller per interagire con gli oggetti, afferrare e rilasciare le scarpe e teletrasportarsi all'interno del negozio virtuale.
 
-L'esperienza si compone di 3 livelli. Al crescere del livello cresce il numero di scarpe da memorizzare e quindi sistemare. Ogni livello comprende 2 fasi:
+L'esperienza è composta da **3 livelli a difficoltà crescente**. Con l'aumentare del livello cresce il numero di scarpe che l'utente deve memorizzare e successivamente riposizionare.
 
-FASE 1: **MEMORIZZAZIONE** 
-L'utente ha a disposizione un tempo limitato per esplorare l'ambiente e memorizzare la posizione delle scarpe. Allo scadere del tempo le scarpe scompareranno.
+Ogni livello è suddiviso in due fasi:
 
-FASE 2: **RIPOSIZIONAMENTO**
-Al centro della stanza compariranno le scarpe da riposizionare sugli scaffali. Il corretto o scorretto collocamento della scarpa viene indicato dalla colorazione verde o rossa dello slot su cui si posiziona.
+### Fase 1: **Memorizzazione**
+
+L'utente dispone di un tempo limitato per esplorare l'ambiente e memorizzare la posizione delle scarpe presenti sugli scaffali. Allo scadere del tempo, le scarpe scompaiono.
+
+### Fase 2: **Riposizionamento**
+
+Al centro della stanza compaiono le scarpe che l'utente deve riposizionare sugli scaffali. Il corretto o errato posizionamento viene segnalato attraverso la colorazione dello slot corrispondente: **verde** in caso di posizione corretta e **rosso** in caso di errore.
 
 ## Tecnologie utilizzate
 
-Il progetto è stato realizzato tramite il Game Engine ***Unity*** in C# con l'utilizzo del visore ***Meta Quest 2***. Per l'integrazione del visore nel sistema è stato utilizzato il pacchetto *XR Interaction Toolkit*.
+Il progetto è stato sviluppato utilizzando il game engine ***Unity*** e il linguaggio ***C#***.
+
+Per l'esperienza immersiva è stato utilizzato il visore ***Meta Quest 2***, mentre per la gestione delle interazioni e della locomozione in realtà virtuale è stato utilizzato il pacchetto ***XR Interaction Toolkit***.
 
 ## Test
 
-Il sistema è stato testato su diversi utenti per verificare l'usabilità del sistema e studiare se ci fosse qualche correlazione tra la tipologia e il colore della scarpa e la facilità di memorizazzione.
-
+Il sistema è stato testato con diversi utenti con l'obiettivo di valutarne l'usabilità e analizzare l'eventuale presenza di correlazioni tra le caratteristiche delle scarpe, come tipologia e colore, e la facilità con cui la loro posizione veniva memorizzata.
 ## Media
 
 <p align="center">
