@@ -39,6 +39,10 @@ Per l'esperienza immersiva è stato utilizzato il visore ***Meta Quest 2***, men
 Il sistema è stato testato con diversi utenti con l'obiettivo di valutarne l'usabilità e analizzare l'eventuale presenza di correlazioni tra le caratteristiche delle scarpe, come tipologia e colore, e la facilità con cui la loro posizione veniva memorizzata.
 ## Media
 
+## Il mio ruolo
+
+Mi sono occupato della progettazione e dello sviluppo dell'esperienza, implementando le principali meccaniche di gioco, le interazioni con gli oggetti, il sistema di locomozione tramite teletrasporto, la gestione dei diversi livelli e la racccolta dati per l'analisi delle correlazioni.
+
 <p align="center">
   <img src="Foto-Video/Ex1.png" width="600">
 </p>
