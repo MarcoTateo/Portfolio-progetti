@@ -28,6 +28,11 @@ Ogni livello è suddiviso in due fasi:
 
 L'utente dispone di un tempo limitato per esplorare l'ambiente e memorizzare la posizione delle scarpe presenti sugli scaffali.
 
+<p align="center">
+  <img src="Foto-Video/Mem_GIF.gif" width="600">
+</p>
+
+
 ### Fase 2: **Riposizionamento**
 
 In questa fase l'utente dispone di un tempo limitato per riposizionare sugli scaffali le scarpe che compaiono al centro della stanza. Dopo ogni posizionamento corretto, viene mostrata una nuova scarpa da collocare.
