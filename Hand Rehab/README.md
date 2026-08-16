@@ -29,7 +29,7 @@ L'immagine raffigurata dal puzzle può essere personalizzata da un operatore est
 L'utente deve costruire una torre di mattoncini cercando di renderla il più stabile e precisa possibile. La precisione nel posizionamento dei mattoncini viene rilevata dal sistema e utilizzata per calcolare e aggiornare progressivamente il punteggio.
 
 <p>
-  <img src="" width="600">
+  <img src="Media/Cube_GIF.gif" width="600">
 </p>
 
 ### Task 2: Stanza dei colori
