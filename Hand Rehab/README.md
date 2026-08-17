@@ -48,8 +48,9 @@ Il task è ambientato in un garage, dove l'utente deve costruire una sedia di le
 
 Le tavole devono essere tagliate utilizzando una sega circolare e successivamente assemblate per ottenere la struttura finale della sedia.
 
-<p>
-  <img src="" width="600">
+<p align="center">
+  <img src="Media/Cut_GIF.gif" width="45%">
+  <img src="Media/Assemble_GIF.gif" width="45%">
 </p>
 
 ### Task 4: Laboratorio
