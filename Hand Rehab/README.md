@@ -49,12 +49,12 @@ Il task è ambientato in un garage, dove l'utente deve costruire una sedia di le
 Le tavole devono essere tagliate utilizzando una sega circolare e successivamente assemblate per ottenere la struttura finale della sedia.
 <br>
 <p align="center">
-  <img src="Media/Cut_GIF.gif" width="60%">
+  <img src="Media/Cut_GIF.gif" width="600"><br>
   <em>Fase di taglio</em>
 </p>
 <br>
 <p align="center">
-  <img src="Media/Assemble_GIF.gif" width="60%">
+  <img src="Media/Assemble_GIF.gif" width="600"><br>
   <em>Fase di assemblaggio</em>
 </p>
 <br>
