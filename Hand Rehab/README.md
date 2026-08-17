@@ -39,7 +39,7 @@ L'utente deve riprodurre un colore mostrato dal sistema utilizzando delle bombol
 L'obiettivo è individuare la corretta combinazione dei colori per avvicinarsi il più possibile al colore richiesto. Al termine, il sistema calcola un punteggio sulla base della somiglianza tra il colore ottenuto e quello mostrato.
 
 <p>
-  <img src="" width="600">
+  <img src="Media/Color_GIF.gif" width="600">
 </p>
 
 ### Task 3: Garage
