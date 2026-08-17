@@ -50,10 +50,12 @@ Le tavole devono essere tagliate utilizzando una sega circolare e successivament
 <br>
 <p align="center">
   <img src="Media/Cut_GIF.gif" width="50%">
+  <em>Fase di taglio</em>
 </p>
 <br>
 <p align="center">
   <img src="Media/Assemble_GIF.gif" width="50%">
+  <em>Fase di assemblaggio</em>
 </p>
 <br>
 
