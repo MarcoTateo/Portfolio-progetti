@@ -57,7 +57,6 @@ Le tavole devono essere tagliate utilizzando una sega circolare e successivament
   <img src="Media/Assemble_GIF.gif" width="600"><br>
   <em>Fase di assemblaggio</em>
 </p>
-<br>
 
 ### Task 4: Laboratorio
 
