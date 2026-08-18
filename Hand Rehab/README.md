@@ -21,7 +21,7 @@ All'avvio del sistema, l'utente si trova nella stanza principale, dove l'obietti
 L'immagine raffigurata dal puzzle può essere personalizzata da un operatore esterno.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/WheelChair/Media/Puzzle.png" width="600">
+ <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/Hand%20Rehab/Media/Puzzle.png" width="600">
 </p>
 
 ### Task 1: Stanza dei cubi
@@ -29,7 +29,7 @@ L'immagine raffigurata dal puzzle può essere personalizzata da un operatore est
 L'utente deve costruire una torre di mattoncini cercando di renderla il più stabile e precisa possibile. La precisione nel posizionamento dei mattoncini viene rilevata dal sistema e utilizzata per calcolare e aggiornare progressivamente il punteggio.
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/WheelChair/Media/Cube_GIF.gif" width="600">
+<img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/Hand%20Rehab/Media/Cube_GIF.gif" width="600">
 </p>
 
 ### Task 2: Stanza dei colori
@@ -39,7 +39,7 @@ L'utente deve riprodurre un colore mostrato dal sistema utilizzando delle bombol
 L'obiettivo è individuare la corretta combinazione dei colori per avvicinarsi il più possibile al colore richiesto. Al termine, il sistema calcola un punteggio sulla base della somiglianza tra il colore ottenuto e quello mostrato.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/WheelChair/Media/Color_GIF.gif" width="600">
+  <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/Hand%20Rehab/Media/Color_GIF.gif" width="600">
 </p>
 
 ### Task 3: Garage
@@ -49,12 +49,12 @@ Il task è ambientato in un garage, dove l'utente deve costruire una sedia di le
 Le tavole devono essere tagliate utilizzando una sega circolare e successivamente assemblate per ottenere la struttura finale della sedia.
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/WheelChair/Media/Cut_GIF.gif" width="600"><br>
+  <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/Hand%20Rehab/Media/Cut_GIF.gif" width="600"><br>
   <em>Fase di taglio</em>
 </p>
 <br>
 <p align="center">
- <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/WheelChair/Media/Assemble_GIF.gif" width="600"><br>
+<img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/Hand%20Rehab/Media/Assemble_GIF.gif" width="600"><br>
   <em>Fase di assemblaggio</em>
 </p>
 
@@ -65,7 +65,7 @@ L'utente si trova in un laboratorio di chimica e ha il compito di preparare dive
 Per completare il task deve inizialmente sbloccare le sostanze necessarie aprendo un armadietto, per poi prelevarle e versarle nei contenitori appropriati seguendo le quantità e le combinazioni indicate.
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/WheelChair/Media/Pouring_GIF" width="600"><br>
+   <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/Hand%20Rehab/Media/Pouring_GIF" width="600"><br>
 </p>
 
 ## Test
