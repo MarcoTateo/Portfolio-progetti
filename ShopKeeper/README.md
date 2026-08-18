@@ -29,7 +29,7 @@ Ogni livello è suddiviso in due fasi:
 L'utente dispone di un tempo limitato per esplorare l'ambiente e memorizzare la posizione delle scarpe presenti sugli scaffali.
 
 <p align="center">
-  <img src="Foto-Video/Mem_GIF.gif" width="700">
+  <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/ShopKeeper/Foto-Video/Mem_GIF.gif" width="700">
 </p>
 
 ### Fase 2: **Riposizionamento**
