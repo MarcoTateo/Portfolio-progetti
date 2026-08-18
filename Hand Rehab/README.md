@@ -21,7 +21,7 @@ All'avvio del sistema, l'utente si trova nella stanza principale, dove l'obietti
 L'immagine raffigurata dal puzzle può essere personalizzata da un operatore esterno.
 
 <p align="center">
-  <img src="" width="600">
+  <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/WheelChair/Media/Puzzle.png" width="600">
 </p>
 
 ### Task 1: Stanza dei cubi
