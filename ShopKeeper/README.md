@@ -43,7 +43,7 @@ Nella fase finale l'utente deve quindi affidarsi esclusivamente alla propria mem
 Il sistema calcola inoltre il **punteggio dell'utente** sulla base del numero di scarpe riposizionate correttamente.
 
 <p align="center">
-  <img src="Foto-Video/Posizionamento_GIF.gif" width="700">
+  <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/ShopKeeper/Foto-Video/Posizionamento_GIF.gif" width="700">
 </p>
 
 ## Tecnologie utilizzate
