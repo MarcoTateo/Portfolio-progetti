@@ -65,7 +65,7 @@ L'utente si trova in un laboratorio di chimica e ha il compito di preparare dive
 Per completare il task deve inizialmente sbloccare le sostanze necessarie aprendo un armadietto, per poi prelevarle e versarle nei contenitori appropriati seguendo le quantità e le combinazioni indicate.
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/Hand%20Rehab/Media/Pouring_GIF" width="600"><br>
+   <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/Hand%20Rehab/Media/Pouring_GIF.gif" width="600"><br>
 </p>
 
 ## Test
