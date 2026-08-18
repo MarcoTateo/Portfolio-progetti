@@ -29,7 +29,7 @@ L'immagine raffigurata dal puzzle può essere personalizzata da un operatore est
 L'utente deve costruire una torre di mattoncini cercando di renderla il più stabile e precisa possibile. La precisione nel posizionamento dei mattoncini viene rilevata dal sistema e utilizzata per calcolare e aggiornare progressivamente il punteggio.
 
 <p align="center">
-  <img src="Media/Cube_GIF.gif" width="600">
+ <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/WheelChair/Media/Cube_GIF.gif" width="600">
 </p>
 
 ### Task 2: Stanza dei colori
@@ -39,7 +39,7 @@ L'utente deve riprodurre un colore mostrato dal sistema utilizzando delle bombol
 L'obiettivo è individuare la corretta combinazione dei colori per avvicinarsi il più possibile al colore richiesto. Al termine, il sistema calcola un punteggio sulla base della somiglianza tra il colore ottenuto e quello mostrato.
 
 <p align="center">
-  <img src="Media/Color_GIF.gif" width="600">
+  <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/WheelChair/Media/Color_GIF.gif" width="600">
 </p>
 
 ### Task 3: Garage
@@ -49,12 +49,12 @@ Il task è ambientato in un garage, dove l'utente deve costruire una sedia di le
 Le tavole devono essere tagliate utilizzando una sega circolare e successivamente assemblate per ottenere la struttura finale della sedia.
 <br>
 <p align="center">
-  <img src="Media/Cut_GIF.gif" width="600"><br>
+  <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/WheelChair/Media/Cut_GIF.gif" width="600"><br>
   <em>Fase di taglio</em>
 </p>
 <br>
 <p align="center">
-  <img src="Media/Assemble_GIF.gif" width="600"><br>
+ <img src="https://raw.githubusercontent.com/MarcoTateo/Portfolio-progetti/main/WheelChair/Media/Assemble_GIF.gif" width="600"><br>
   <em>Fase di assemblaggio</em>
 </p>
 
